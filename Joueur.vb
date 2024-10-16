@@ -1,5 +1,6 @@
 ﻿Public Class Joueur
     Public nom As String
+    Public age As Integer
     Private gain As Integer
     Public mise As Integer
     Public Sub Miser()
